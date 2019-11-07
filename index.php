@@ -24,8 +24,8 @@ include_once(G5_PATH.'/head.php');
     <ul>
         <li><a href="about.html"><img src="<?php echo G5_URL?>/images/visual_icon1.jpg" alt="기업소개"></a></li>
         <li class="pre"><a href="#"><img src="<?php echo G5_URL?>/images/visual_icon2.jpg" alt="사업안내"></a></li>
-        <li class="pre"><a href="product.html"><img src="<?php echo G5_URL?>/images/visual_icon3.jpg" alt="제품정보"></a></li>
-        <li class="pre"><a href="#"><img src="<?php echo G5_URL?>/images/visual_icon4.jpg" alt="커뮤니티"></a></li>
+        <li class="pre"><a href="#"><img src="<?php echo G5_URL?>/images/visual_icon3.jpg" alt="제품정보"></a></li>
+        <li><a href="<?php echo G5_BBS_URL?>/board.php?bo_table=free"><img src="<?php echo G5_URL?>/images/visual_icon4.jpg" alt="커뮤니티"></a></li>
     </ul>
 </div>
 <div class="product">
