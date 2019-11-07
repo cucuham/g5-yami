@@ -39,8 +39,8 @@ include_once(G5_LIB_PATH.'/popular.lib.php');
 </div>
 <div class="nav">
     <ul>
-        <li><a href="about.html">야미소개</a></li>
-        <li><a href="process.html">생산공정</a></li>
+        <li><a href="<?php echo G5_URL?>/docs/about.php">야미소개</a></li>
+        <li><a href="<?php echo G5_URL?>/docs/process.php">생산공정</a></li>
         <li class="pre"><a href="#">제품소개</a></li>
         <li class="pre"><a href="#">고객센터</a></li>
     </ul>
